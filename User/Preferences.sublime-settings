@@ -1,0 +1,32 @@
+{
+	/*"auto_complete": true,*/
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".(){}[],'\"=<>/\\+-|&*%=$#@! ",
+			"selector": "source.python",
+		},
+		{
+			"characters": " ",
+			"selector": "source & - source.python - constant.numeric",
+		},
+		{
+			"characters": " qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
+			"selector": "text",
+		}
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Sixteen.sublime-color-scheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"FileIcons",
+		"Vintage",
+	],
+	"theme": "Adaptive.sublime-theme",
+	"auto_complete": true,
+	"index_exclude_gitignore": false,
+	"word_wrap": true,
+	"show_definitions": true,
+	"update_check": false,
+}

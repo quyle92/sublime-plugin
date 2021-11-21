@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "BuildParts: Build the selected code",
+        "command": "build_parts"
+    }
+]

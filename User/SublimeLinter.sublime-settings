@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+{	
+	"linters": {
+        "jshint": {     
+            "filter_errors": ["warning: "],
+            "indent": 1
+        },
+
+    }
+}
